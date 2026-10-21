@@ -4,11 +4,11 @@ A modern, lightweight, and responsive web application built with vanilla JavaScr
 ---
 
 ## ✨ Features
-- **Dynamic Balance & Summary:** Automatically calculates total balance, incoming cash flow, and outgoing expenses[cite: 2].
-- **Local Storage Integration:** Persists your transaction records securely in your browser's `localStorage` so data isn't lost on refresh[cite: 2].
-- **Add & Remove Transactions:** Easily log new entries with custom descriptions and amounts, or delete records when needed[cite: 1, 2, 3].
-- **Modern UI/UX:** Styled with smooth transitions, custom scrollbars, and visual indicators distinguishing income (green) from expenses (red)[cite: 3].
-- **Mobile-Friendly / Responsive:** Designed using CSS Grid and media queries to work seamlessly across desktops, tablets, and mobile devices[cite: 3].
+- **Dynamic Balance & Summary:** Automatically calculates total balance, incoming cash flow, and outgoing expenses.
+- **Local Storage Integration:** Persists your transaction records securely in your browser's `localStorage` so data isn't lost on refresh.
+- **Add & Remove Transactions:** Easily log new entries with custom descriptions and amounts, or delete records when needed.
+- **Modern UI/UX:** Styled with smooth transitions, custom scrollbars, and visual indicators distinguishing income (green) from expenses (red).
+- **Mobile-Friendly / Responsive:** Designed using CSS Grid and media queries to work seamlessly across desktops, tablets, and mobile devices.
 
 ---
 
